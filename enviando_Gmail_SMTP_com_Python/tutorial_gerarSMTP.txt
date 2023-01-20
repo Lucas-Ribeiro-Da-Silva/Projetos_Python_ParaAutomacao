@@ -1,0 +1,22 @@
+Ao abrir o seu gmail
+1 - vá em "configurações"
+2 - clique em "todas as configurações"
+3 - vá para "Encaminhamento e POP/IMAP"
+4 - ative o acesso IMPAP
+5 - salve as alterações
+
+Agora acesse o link a seguir:
+https://support.google.com/accounts/answer/185833?hl=pt-BR
+
+6 - você deve ter a "verificação em duas etapas" já configurada
+7 - acesse sua conta do google
+8 - vá em segurança
+9 - em "como fazer login no google" selecione "senhas de app"
+10 - clique e coloque a sua senha padrão
+11 - em "selecione o app" clique em "outro"
+12 - nomeie com "Enviar Email com Python"
+13 - Salve as alterações
+14 - a senha gerada aparece na tela, copie e substitua no seu arquivo .env 
+
+NÃO ESQUEÇA: adicione um .gitignore para não enviar o .env ao seu repositório
+

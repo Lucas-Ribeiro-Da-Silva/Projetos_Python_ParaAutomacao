@@ -1,0 +1,11 @@
+#arquivos
+
+*.pyc
+
+.env
+
+#diretórios
+
+venv
+
+__pycache__
